@@ -7,13 +7,19 @@ The recipient of the project is essentially is an individual user.
 
 Key Highlights-
 
--FMEA Analysis
--SWOT Analysis
--Risk Matrix
--Resources Chart
--GANTT Chart
--PERT Chart
--PERT Table
+1.FMEA Analysis
+
+2.SWOT Analysis
+
+3.Risk Matrix
+
+4.Resources Chart
+
+5.GANTT Chart
+
+6.PERT Chart
+
+7.PERT Table
  
 
  
